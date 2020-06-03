@@ -1,0 +1,1 @@
+така фішка: cat blocks.txt - in terminal 

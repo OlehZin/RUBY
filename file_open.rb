@@ -1,0 +1,1 @@
+File.open("/home/oleh/Стільниця/screencasts/blocks.txt", "w") {|f| f.puts "така фішка: cat blocks.txt - in terminal "}
